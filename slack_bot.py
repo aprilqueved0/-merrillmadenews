@@ -8,7 +8,7 @@ client = WebClient(token=slack_token)
 msg = "testing!"
 try:
     response = client.chat_postMessage(
-        channel="slack-bots",
+        channel="news-alerts",
         text=msg,
         unfurl_links=True, 
         unfurl_media=True
