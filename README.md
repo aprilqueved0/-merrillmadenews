@@ -1,3 +1,3 @@
-# slack-bot-sandbox
+# merrillmadenews
 
-A repository for experimenting with the Slack API in Python by students in JOUR328, News Application Development.
+A Slack bot that notifies channel members of new articles published by Merrill Master's F2024/S2025 journalists.
